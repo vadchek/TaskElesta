@@ -1,0 +1,10 @@
+  # Idea
+.idea*
+
+# Gradle
+gradle/*
+
+# Build
+out/*
+.gradle/*
+build/*
